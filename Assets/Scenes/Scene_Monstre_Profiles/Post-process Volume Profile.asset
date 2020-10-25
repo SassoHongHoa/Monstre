@@ -21,10 +21,10 @@ MonoBehaviour:
     value: 1.23
   aperture:
     overrideState: 1
-    value: 8.7
+    value: 9.8
   focalLength:
     overrideState: 1
-    value: 61
+    value: 53
   kernelSize:
     overrideState: 0
     value: 1
@@ -201,10 +201,10 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: -40
+    value: -39
   tint:
     overrideState: 1
-    value: -13
+    value: 1
   colorFilter:
     overrideState: 0
     value: {r: 1, g: 1, b: 1, a: 1}
